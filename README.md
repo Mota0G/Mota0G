@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center"> A Software Developer from Brazil</h1>
+<h1 align="center">Software Developer</h1>
 
 <p align="left">
 </p>
