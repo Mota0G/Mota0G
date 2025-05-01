@@ -9,7 +9,7 @@
 
 - 🎓 I'm a graduate in **Computer Programming** from Conestoga College, Canada.
 - 💼 I am currently looking for a job opportunity.
-- ⚡ Fun fact: I play guitar and love solving logic puzzles.
+- ⚡ Fun fact: I play guitar and love reading books.
 
 
 ### 🛠️ Languages and Tools
