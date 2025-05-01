@@ -76,5 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mota0g&theme=tokyonight" width="48%" alt="mota0g" />
 </p>
 
-
+### 🌐 Connect with me
+ 
+ <p> 
+   <a href="https://www.linkedin.com/in/guilherme-almeida-mota-765697327/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/> </a> &nbsp;&nbsp; 
+ </p>
 
