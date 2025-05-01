@@ -67,8 +67,6 @@
   </a>
 </p>
 
-[![Assista ao vídeo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 
 ### 📊 GitHub Stats
 
@@ -83,6 +81,7 @@
   <a href="mailto:almeidamota100@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" title="Email"/> </a> &nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/guilherme-almeida-mota-765697327/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/> </a> &nbsp;&nbsp; 
 </p>
+
 
 
 
