@@ -18,9 +18,6 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="android" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure&theme=light" alt="azure" width="40" height="40"/>
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs&theme=light" alt="csharp" width="40" height="40"/>
   </a>
