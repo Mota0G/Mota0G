@@ -69,8 +69,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mota0G&show_icons=true&theme=tokyonight" width="25.5%" alt="Mota0G" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mota0g&theme=tokyonight" width="48%" alt="mota0g" />
+<img src="https://github-readme-stats.vercel.app/api?username=mota0g&theme=tokyonight" width="48%" alt="Mota0G" />
 </p>
 
 ### 🌐 Connect with me
