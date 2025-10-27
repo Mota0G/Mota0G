@@ -8,7 +8,6 @@
 ### 🚀 About Me
 
 - 🎓 I'm a graduate in **Computer Programming** from Conestoga College, Canada.
-  🎥 [Watch my final project demo on YouTube](https://www.youtube.com/watch?v=vw4spvzzf3A&ab_channel=GuilhermeAlmeida)
 - 💼 I am currently looking for a job opportunity.
 - ⚡ Fun fact: I play guitar and love reading books.
 
