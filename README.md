@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a graduate in **Computer Programming** from Conestoga College, Canada.
+- 🎓 I'm a graduate in **Computer Programming** from Conestoga College.
 - 💼 I am currently looking for a job opportunity.
 - ⚡ Fun fact: I play guitar and love reading books.
 
