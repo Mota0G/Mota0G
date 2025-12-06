@@ -64,13 +64,6 @@
   </a>
 </p>
 
-
-### 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mota0g&theme=tokyonight" width="48%" alt="Mota0G" />
-</p>
-
 ### 🌐 Connect with me
  
  <p> 
