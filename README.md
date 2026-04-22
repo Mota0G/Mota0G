@@ -13,54 +13,78 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="android" width="40" height="40"/>
+
+  <!-- Mobile -->
+  <strong>Mobile:</strong><br/>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs&theme=light" alt="csharp" width="40" height="40"/>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css3" width="40" height="40"/>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart&theme=light" width="40"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart&theme=light" alt="dart" width="40" height="40"/>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=light" alt="dotnet" width="40" height="40"/>
+
+  <br/><br/>
+
+  <!-- Backend -->
+  <strong>Backend:</strong><br/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs&theme=light" width="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=light" width="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="flutter" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="40" height="40"/>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express&theme=light" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html5" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="javascript" width="40" height="40"/>
+
+  <br/><br/>
+
+  <!-- Frontend -->
+  <strong>Frontend:</strong><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" width="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="kotlin" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" width="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" width="40" height="40"/>
+
+  <br/><br/>
+
+  <!-- Database -->
+  <strong>Database:</strong><br/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="postman" width="40" height="40"/>
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <strong>Tools:</strong><br/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="40" height="40"/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" width="40"/>
   </a>
+
 </p>
 
 ### 🌐 Connect with me
