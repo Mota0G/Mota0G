@@ -28,8 +28,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="40"/>
   </a>
 
-  <br/><br/>
-
   <!-- Backend -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs&theme=light" width="40"/>
@@ -47,8 +45,6 @@
     <img src="https://skillicons.dev/icons?i=python&theme=light" width="40"/>
   </a>
 
-  <br/><br/>
-
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html&theme=light" width="40"/>
@@ -60,8 +56,6 @@
     <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="40"/>
   </a>
 
-  <br/><br/>
-
   <!-- Database -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40"/>
@@ -69,8 +63,6 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40"/>
   </a>
-
-  <br/><br/>
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
