@@ -15,7 +15,6 @@
 <p align="left">
 
   <!-- Mobile -->
-  <strong>Mobile:</strong><br/>
   <a href="https://developer.android.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="40"/>
   </a>
@@ -32,7 +31,6 @@
   <br/><br/>
 
   <!-- Backend -->
-  <strong>Backend:</strong><br/>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs&theme=light" width="40"/>
   </a>
@@ -52,7 +50,6 @@
   <br/><br/>
 
   <!-- Frontend -->
-  <strong>Frontend:</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html&theme=light" width="40"/>
   </a>
@@ -66,7 +63,6 @@
   <br/><br/>
 
   <!-- Database -->
-  <strong>Database:</strong><br/>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40"/>
   </a>
@@ -77,7 +73,6 @@
   <br/><br/>
 
   <!-- Tools -->
-  <strong>Tools:</strong><br/>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git&theme=light" width="40"/>
   </a>
